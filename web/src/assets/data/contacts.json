@@ -1,10 +1,18 @@
 [
-  { "title": "Chairman", "name": "K Deane", "phone": "01884 32652" },
-  {
-    "title": "Secretary",
-    "name": "Carol Allan",
-    "email": "gardenclub@willandvillagehall.org.uk",
-    "phone": "0188433828"
-  },
-  { "title": "Treasurer", "name": "R Brown", "phone": "01884 33632" }
+    {
+        "title": "Events Secretary",
+        "name": "Eira Brown",
+        "phone": "01884 33632"
+    },
+    {
+        "title": "Secretary",
+        "name": "Carol Allan",
+        "email": "gardenclub@willandvillagehall.org.uk",
+        "phone": "0188433828"
+    },
+    {
+        "title":"Treasurer",
+        "name": "Richard Brown",
+        "phone": "01884 33632"
+    }
 ]
