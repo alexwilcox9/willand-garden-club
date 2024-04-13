@@ -1,117 +1,83 @@
 [
     {
-        "name": "DVD -Brilliant Gardens ",
-        "date": "08/03/2022",
-        "time": "7.30pm",
+        "name": "Pelargoniums",
+        "date": "08/05/2024",
+        "time": "",
         "description": "",
-        "icon": "microphone",
-        "location": "Willand Village Hall",
-        "contact": " Eira Brown" 
+        "icon": "",
+        "location": "",
+        "contact": "Brian Carlson"
+    },
+    {
+        "name": "Coffee Morning and Plant sale",
+        "date": "25/05/2024",
+        "time": "",
+        "description": "",
+        "icon": "coffee",
+        "location": "",
+        "contact": " "
+    },
+    {
+        "name": "Farm Walk",
+        "date": "12/06/2024",
+        "time": "",
+        "description": "",
+        "icon": "tractor",
+        "location": "",
+        "contact": " "
+    },
+    {
+        "name": "AGM. Quiz and Bring/Share Supper",
+        "date": "10/07/2024",
+        "time": "",
+        "description": "",
+        "icon": "",
+        "location": "",
+        "contact": " "
+    },
+    {
+        "name": "Nerines",
+        "date": "11/09/2024",
+        "time": "",
+        "description": "",
+        "icon": "",
+        "location": "Taunton",
+        "contact": "Jonny Hartnell"
     },
     {
         "name": "Coffee Morning",
-        "date": "19/03/2022",
-        "time": "10 to 11.30am",
-        "description": "Come and join us for Coffee/Tea and be tempted to buy some of our delicious homemade cakes plus sales of Bric a Brac and a raffle",
+        "date": "28/09/2024",
+        "time": "0930-1100",
+        "description": "",
         "icon": "mug-hot",
-        "location": "Willand Village Hall",
-        "price":"Only £1.00 including tea/coffee and biscuits"
+        "location": "",
+        "contact": " "
     },
     {
-        "name": "Devon Garden History",
-        "date": "13/04/2022",
-        "time": "7.30pm",
+        "name": "Hedgehogs",
+        "date": "09/10/2024",
+        "time": "",
         "description": "",
-        "icon": "comments",
-        "location": "Willand Village Hall",
-        "contact": "Speaker - Dianne Long-Devon Garden Trust"
+        "icon": "",
+        "location": "Withleigh",
+        "contact": "Stephen Powles"
     },
     {
-        "name": "Quiz",
-        "date": "11/05/2022",
-        "time": "7.30pm",
+        "name": "Rosetime Flowers, Autumn",
+        "date": "13/11/2024",
+        "time": "",
         "description": "",
-        "icon": "question",
-        "location": "Willand Village Hall",
-        "contact": "Eira Brown 07787 148195" 
+        "icon": "fan",
+        "location": "",
+        "contact": " "
     },
     {
-        "name": "Plant Sale",
-        "date": "28/05/2022",
-        "time": "10 to 11.30 am",
-        "description": "Stock up your garden from a wide range of plants grown by our members all at very reasonable prices. Tea/coffee at only £1.00 and sales of homemade cakes, bric a Brac and a prize draw",
-        "icon": "seedling",
-        "location": "Willand Village Hall",
-        "contact": "Any committee member"
-    },
-    {
-        "name": "Annual Outing ...details to follow",
-        "date": "",
-        "time": "tba",
+        "name": "Christmas Party",
+        "date": "11/12/2024",
+        "time": "",
         "description": "",
-        "icon": "shuttle-van",
-        "location": ""
-    },
-    {
-        "name": "Allotment Walk with Sylvia",
-        "date": "13/07/2022",
-        "time": "7.30pm",
-        "description": "",
-        "icon": "microphone",
-        "location": "Willand Allotments",
-        "contact": " Sylvia Statham"
-    },
-    {
-        "name": "Willand Flower & Vegetable Show",
-        "date": "13/08/2022",
-        "time": "2.00pm",
-        "description": "Come and see the beautiful flowers and vegetables grown by our members and you can even submit your own entries. The show is open to non members and we enjoy the competition ",
-        "icon": "trophy",
-	 "location": "Willand Village Hall",
-        "contact": "Carol Allan"
-    },
-    {
-        "name": "Unusual Herbaceous Plants",
-        "date": "14/09/2022",
-        "time": "7.30pm",
-        "description": "",
-        "icon": "microphone",
-        "location": "Willand Village Hall",
-        "contact": "Speaker - Peter Cantrill"
-    },
-    {
-	"name":"Coffee Morning",
-	"date":"24/09/2022",
-	"time":"10 to 11.30am",
-	"description":"Coffee morning with sales of homemade cakes and Bric a Brac plus a prize draw.",
-	"icon": "mug-hot",
-	"location":"Willand Village Hall" 
-    },
-    {
-	"name": "Devon Country Houses 21c",
-        "date": "12/10/2022",
-        "time": "7.30pm",
-        "description": "",
-        "icon": "microphone",
-        "location": "Willand Village Hall",
-        "contact": "Speaker - Hugh Meller"
-    },
-    {
-	"name": "African Pictures",
-        "date": "09/11/2022",
-        "time": "7.30pm",
-        "description": "",
-        "icon": "comments",
-        "location": "Willand Village Hall",
-        "contact": "Speaker - Gordon Guest"
-    },
-    {
-	"name": "AGM",
-        "date": "14/12/2022",
-        "time": "7.30pm",
-        "description": "Fun Quiz, Secret Santa, wine and mince pies",
-        "icon": "glass-cheers",
-        "location": "Willand Village Hall",
-        "contact": "Any committee member"
+        "icon": "sleigh",
+        "location": "",
+        "contact": ""
     }
 ]

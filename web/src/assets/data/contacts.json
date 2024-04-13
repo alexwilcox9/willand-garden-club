@@ -1,18 +1,22 @@
 [
     {
         "title": "Events Secretary",
-        "name": "Eira Brown",
-        "phone": "01884 33632"
+        "name": "Brian Carlson",
+        "email": "bc44467@gmail.com"
     },
     {
         "title": "Secretary",
-        "name": "Carol Allan",
-        "email": "gardenclub@willandvillagehall.org.uk",
-        "phone": "0188433828"
+        "name": "Carroll Baker",
+        "email": "chesterwb05@gmail.com"
     },
     {
-        "title":"Treasurer",
-        "name": "Richard Brown",
-        "phone": "01884 33632"
+        "title": "Chair",
+        "name": "Sylvia Statham",
+        "email": "peterandsylviastatham@hotmail.com"
+    },
+    {
+        "title": "Treasurer",
+        "name": "Dorothy Anderson",
+        "email": "dorothyanderson321@btinternet.com"
     }
 ]

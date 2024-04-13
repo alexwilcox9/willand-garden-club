@@ -1,27 +1,32 @@
 <div class="row">
   <div class="col-lg-7">
-    <app-about-us-card [config]=config></app-about-us-card>
+    <app-about-us-card [config]="config"></app-about-us-card>
   </div>
   <div class="col-lg-5">
     <div class="card">
-      <h4 class="card-header">Flower Show
-      </h4>
+      <h4 class="card-header">Flower Show</h4>
       <div class="card-body">
-        <p>The Willand Flower Show will be happening this year on the <b>{{flowerShow.date}}</b>!</p>
-        <a class="btn btn-primary col-12" href="{{flowerShow.link}}">Download Programme</a>
+        <!-- <p>The Willand Flower Show will be happening this year on the <b>{{flowerShow.date}}</b>!</p>
+        <a class="btn btn-primary col-12" href="{{flowerShow.link}}">Download Programme</a> -->
+        <p>
+          The Willand Flower Show will not be happening this year but we hope a
+          decision will be made regarding a one in 2025.
+        </p>
       </div>
     </div>
     <app-contacts></app-contacts>
     <div class="card">
-      <h4 class="card-header">Membership
-      </h4>
+      <h4 class="card-header">Membership</h4>
       <div class="card-body">
         <div class="media">
-          <img class="align-self-start logo" src="../../assets/images/GardenClubLogo.png" alt="Garden Club Logo">
+          <img
+            class="align-self-start logo"
+            src="../../assets/images/GardenClubLogo.png"
+            alt="Garden Club Logo"
+          />
           <div class="media-body">
-            Membership is £5 per annum and we ask visitors to pay £1 per meeting. Visitors are
-            always
-            welcome.
+            Membership is £5 per annum and we ask visitors to pay £1 per
+            meeting. Visitors are always welcome.
           </div>
         </div>
       </div>
